@@ -1,1 +1,1 @@
-web: streamlit run calc.py
+web: sh setup.sh && streamlit run calc.py
